@@ -104,21 +104,6 @@ DevOps / Deployment       ██████████░░░░░░░░
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/mashukurmanilk">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mashukurmanilk&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Mashuk's GitHub Stats">
-</a>
-
-<a href="https://github.com/mashukurmanilk">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashukurmanilk&layout=compact&hide_border=true&langs_count=8" alt="Top Languages">
-</a>
-
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -129,42 +114,6 @@ DevOps / Deployment       ██████████░░░░░░░░
 </a>
 
 </div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<a href="https://github.com/mashukurmanilk">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mashukurmanilk&hide_border=true&area=true" alt="Contribution Graph">
-</a>
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-Some projects I'm currently using to explore different areas of software engineering:
-
-### ⚡ CyberHUD
-
-A cyberpunk-inspired productivity dashboard for managing **tasks, habits, and long-term goals**, with effort tracking, streaks, analytics, and local-first persistence.
-
-**Tech:** React • Vite • Tailwind CSS • Dexie.js • IndexedDB
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github)](https://github.com/mashukurmanilk/cyber-hud)
-
----
-
-### 🤖 LLM API
-
-A TypeScript CLI project for learning the fundamentals of **LLM API integration** using Google's Gemini API.
-
-**Tech:** TypeScript • Node.js • Gemini API • Google GenAI SDK
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github)](https://github.com/mashukurmanilk/LLM-API)
 
 ---
 
