@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-banner.png" alt="Mashuk-ur Rahman - GitHub Profile Banner" width="100%"/>
+<img src="./profile-banner.jpg" alt="Mashuk-ur Rahman - GitHub Profile Banner" width="100%"/>
 
 # Mashuk-ur Rahman
 
