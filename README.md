@@ -216,7 +216,7 @@ My goal is to become a **T-shaped software engineer** — developing deep expert
 
 ### 💭
 
-*"Build. Break. Understand. Rebuild better."*
+*"Small steps every day, big results over time."*
 
 <br>
 
